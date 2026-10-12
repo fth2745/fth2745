@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fatih (fth2745)
+# Fatih KAYA
 ### *AI Architecture · Multimodal Intelligence · High-Performance Native Systems*
 
 <br/>

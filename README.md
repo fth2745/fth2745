@@ -25,7 +25,6 @@
 ---
 
 ### 🌐 [Kişisel Portfolyo Sitesi · fth2745.github.io](https://fth2745.github.io)
-> **Apple Tasarım Dilinde İnteraktif Deneyim:** Scrollytelling 3D mimari anlatımı, anlık Türkçe / İngilizce dil değişimi ve canlı sistem konsolu içeren portfolyo sitemi ziyaret edin:  
 > 👉 **[fth2745.github.io](https://fth2745.github.io)**
 
 ---
